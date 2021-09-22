@@ -1,7 +1,7 @@
 ## Hello there 🐢
 - Am Said Neder, a 17 years old Ecuadorian, free software enthusiast and loves to code!🐬
 - Am good at python, html & sass and javascript! 🐍
-- Am currently learning Ethical hacking and mastering python! 🐊
+- Am currently learning Ethical hacking and learning new languages! 🐊
 - My projects already done are:
   - Discord bot made with javascript to let me know when I have class! [repo](https://github.com/crazyc4t/PatrickStar) 📚
   - My own website made with HTML, SASS, Javascript and powered with hugo static site generator and hosted on github! [repo](https://github.com/crazyc4t/crazyc4t.github.io) 🐙
