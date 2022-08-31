@@ -1,6 +1,6 @@
 Having fun developing 🐈‍⬛
 
-You can reach me at my own webpage [over here](https://saidneder.tech/)📓
+You can reach me at my own webpage [over here](https://crazyc4t.xyz/)📓
   
 
 
