@@ -1,8 +1,10 @@
 Having fun developing 🐈‍⬛
 
+In love with go, currently preparing for my CCNA!
+
 You can reach me at my own webpage [over here](https://crazyc4t.xyz/)📓
   
-
+![Crazyc4t GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyc4t&theme=tokyonight&show_icons=true)
 
 <!--
 **crazyc4t/crazyc4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
