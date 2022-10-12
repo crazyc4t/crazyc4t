@@ -4,7 +4,7 @@ Currently learning Go and preparing for my CCNA certification ⚔️
 
 Linux lover and FOSS enthusiast 🐧
 
-Interested in ethical hacking and DevSecOps 🔒
+Interested in go development, could and DevSecOps 🔒
 
 You can reach me at my own webpage [over here](https://crazyc4t.xyz/) 📓
   
