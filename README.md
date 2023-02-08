@@ -1,10 +1,10 @@
-18 years old Ecuadorian trying to make things happen 🇪🇨
+18 years old cybersecurity analyst from Ecuador trying to make things happen 🇪🇨
 
-Currently learning Go and preparing for my CCNA certification ⚔️
+Currently learning Go and preparing for my SBT LVL 1 certification ⚔️
 
 Linux lover and FOSS enthusiast 🐧
 
-Interested in Go development, Cloud and DevSecOps 🔒
+Interested in blue team operations, cloud and DevSecOps 🔒
 
 You can reach me at my own webpage [over here](https://crazyc4t.xyz/) 📓
   
