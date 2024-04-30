@@ -1,10 +1,6 @@
-18 years old cybersecurity analyst from Ecuador trying to make things happen 🇪🇨
+Computing Science Student at Simon Fraser University, Vancouver, BC 🇨🇦
 
-Currently learning Go and preparing for my SBT LVL 1 certification ⚔️
-
-Linux lover and FOSS enthusiast 🐧
-
-Interested in blue team operations, cloud and DevSecOps 🔒
+Linux nerd and FOSS enthusiast 🐧
 
 You can reach me at my own webpage [over here](https://crazyc4t.xyz/) 📓
   
