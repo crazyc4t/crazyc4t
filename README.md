@@ -1,8 +1,8 @@
-Computing Science Student at Simon Fraser University, Vancouver, BC 🇨🇦
+Mathematics and Computing student at [Simon Fraser University](https://www.sfu.ca/), Vancouver, BC 🇨🇦
 
-Linux nerd and FOSS enthusiast 🐧
+Linux nerd, chess newbie and math rockstar 🐧
 
-You can reach me at my own webpage [over here](https://crazyc4t.xyz/) 📓
+You can reach me at my own webpage [over here](https://saidneder.ca/) 📓
   
 ![Crazyc4t GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyc4t&theme=tokyonight&show_icons=true)
 
